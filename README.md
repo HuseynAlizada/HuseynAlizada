@@ -5,6 +5,21 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 
 <h3 class="anim">👋 About Me</h3>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Hi,%20I'm%20Huseyn%20Alizada&font=Inter&fontSize=32&fontColor=fff&animation=fadeIn&color=timeGradient&stroke=92FFEB&strokeWidth=2"/>
+<img src="https://i.gifer.com/ZZ5H.gif" width="500"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY0YzB4cHJqMnYyZmxoM2E5aXJ0Y3U4M3J5aHhxd3VtcmZ6b3FjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/particles.gif?raw=true" width="100%">
+<img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+<img src="https://github-profile-trophy.vercel.app/?username=huseynalizde33&theme=algolia&no-bg=true&margin-w=15"/>
+<img src="https://i.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300"/>
+<img src="https://i.imgur.com/0L3B1cR.gif" width="300">
+<details>
+  <summary style="font-size:18px">Click for surprise 👀</summary>
+  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
+</details>
+
+
 # 💻 Tech Stack
 
 <p align="left">
