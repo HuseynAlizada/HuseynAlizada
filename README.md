@@ -3,16 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseynalizde33/) 
 
 
-I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, NestJS, React, and React Native. I contribute to AI services, develop full stack systems, and publish npm packages to help developers build faster and smarter.<br>
-<p align="left">
-<h3 class="anim">👋 About Me</h3>
-<img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height='250'/>
-  </p>
-<details>
-  <summary style="font-size:18px">Click for surprise 👀</summary>
-  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
-</details>
 
+<p align="left">
+  <h3 class="anim">👋 About Me</h3>
+  I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, NestJS, React, and React Native. I contribute to AI services, develop full stack systems, and publish npm packages to help developers   build faster and smarter.<br>
+  <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height='250'/>
+</p>
 
 # 💻 Tech Stack
 
