@@ -38,6 +38,16 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+# 👋 About Me
+
+- 💼 Front-end & Full-stack Developer with 3+ years of experience  
+- 🏫 Master’s student at BEU University  
+- 💻 Passionate about React, Next.js, Vue, and modern web technologies  
+- 🤖 Interested in AI integration for web and mobile apps  
+- 🎨 Enjoy creating clean, user-friendly UI/UX  
+- 🚀 Mentor and educator at Texnoera Academy  
+- 🌐 Open-source contributor & lifelong learner  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HuseynAlizada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HuseynAlizada&theme=dark&hide_border=false)<br/>
