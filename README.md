@@ -23,7 +23,7 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/tannerlinsley/react-query/latest/react-query.png" width="40" height="40" />
+
 </p>
 
 <p align="left">
