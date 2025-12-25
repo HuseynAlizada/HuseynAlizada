@@ -40,13 +40,13 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 
 # 👋 About Me
 
-- 💼 Front-end & Full-stack Developer with 3+ years of experience  
-- 🏫 Certified Computer Science graduate
-- 💻 Passionate about React, Next.js, Vue, Node.js, Nest.js and modern web technologies  
-- 🤖 Interested in AI integration for web and mobile apps  
-- 🎨 Enjoy creating clean, user-friendly UI/UX and faster back-end systems
-- 🚀 Mentor and educator  
-- 🌐 Contributor of NPM packages for reusable utilities and services <br>
+- Front-end & Full-stack Developer with 3+ years of experience  
+- Certified Computer Science graduate
+- Passionate about React, Next.js, Vue, Node.js, Nest.js and modern web technologies  
+- Interested in AI integration for web and mobile apps  
+- Enjoy creating clean, user-friendly UI/UX and faster back-end systems
+- Mentor and Instructor  
+- Contributor of NPM packages for reusable utilities and services <br>
       [everydaay-helper](https://www.npmjs.com/package/everyday-helper) <br>
       [servios](https://www.npmjs.com/package/servios)
 
