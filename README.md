@@ -7,7 +7,7 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-[Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width='400' />
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
 
 
