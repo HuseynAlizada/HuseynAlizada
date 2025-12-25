@@ -6,7 +6,7 @@
 
 <p align="left">
   <h3 class="anim">👋 About Me</h3>
-  I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, NestJS, React, and React Native. I contribute to AI services, develop full stack systems, and publish npm packages to help developers   build faster and smarter.<br>
+  I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, NestJS, React, and React Native. I contribute to AI services, develop full stack systems, and publish npm packages to help developers   build faster and smarter.<br><br>
   
   <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
 </p>
