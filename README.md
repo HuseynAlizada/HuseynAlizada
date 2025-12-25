@@ -6,6 +6,7 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 
 
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 # 💻 Tech Stack
 
