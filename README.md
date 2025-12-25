@@ -1,4 +1,4 @@
-# Hi there, I'm Arif Hasanov 👋
+# Hi there, I'm Huseyn Alizada 👋
 I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, NestJS, React, and React Native. I contribute to AI services, develop full stack systems, and publish npm packages to help developers build faster and smarter.<br>
 
 
