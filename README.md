@@ -1,7 +1,7 @@
 # Hi there, I'm Huseyn Alizada 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseynalizde33/) 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
+
 I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, NestJS, React, and React Native. I contribute to AI services, develop full stack systems, and publish npm packages to help developers build faster and smarter.<br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width='400' />
