@@ -7,21 +7,9 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=92FFEB&width=600&lines=Front-end+%26+AI+Developer;Building+smarter+web+and+mobile+apps;Open-source+%7C+NPM+Publisher+%7C+Mentor)]()
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
-![](https://komarev.com/ghpvc/?username=huseynalizde33&style=for-the-badge&color=92FFEB)
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,ai" />
-[![Huseyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseynalizde33&show_icons=true&theme=transparent)]()
-<style>
-@keyframes fadeInUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.anim {
-  animation: fadeInUp 0.8s ease-out forwards;
-}
-</style>
+
 
 <h3 class="anim">👋 About Me</h3>
 
