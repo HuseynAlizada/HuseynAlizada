@@ -47,7 +47,7 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 - 🎨 Enjoy creating clean, user-friendly UI/UX and faster back-end systems
 - 🚀 Mentor and educator  
 - 🌐 Contributor of NPM packages for reusable utilities and services
-      [everydaay-helper]([https://your-website.com](https://www.npmjs.com/package/everyday-helper))  
+      [everydaay-helper]([https://your-website.com](https://www.npmjs.com/package/everyday-helper)
       [servios](https://www.npmjs.com/package/servios)
 
 
