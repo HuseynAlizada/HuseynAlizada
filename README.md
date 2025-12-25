@@ -1,6 +1,5 @@
 # Hi there, I'm Huseyn Alizada 👋
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/huseynalizde33/) 
 
 I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, NestJS, React, and React Native. I contribute to AI services, develop full stack systems, and publish npm packages to help developers build faster and smarter.<br>
