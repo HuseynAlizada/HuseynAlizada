@@ -1,4 +1,5 @@
 # Hi there, I'm Huseyn Alizada 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseynalizde33/) 
 
