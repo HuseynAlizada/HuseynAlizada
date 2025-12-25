@@ -41,11 +41,11 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 # 👋 About Me
 
 - 💼 Front-end & Full-stack Developer with 3+ years of experience  
-- 🏫 Master’s student at BEU University  
-- 💻 Passionate about React, Next.js, Vue, and modern web technologies  
+- 🏫 Certified Computer Science graduate
+- 💻 Passionate about React, Next.js, Vue, Node.js, Nest.js and modern web technologies  
 - 🤖 Interested in AI integration for web and mobile apps  
-- 🎨 Enjoy creating clean, user-friendly UI/UX  
-- 🚀 Mentor and educator at Texnoera Academy  
+- 🎨 Enjoy creating clean, user-friendly UI/UX and faster back-end systems
+- 🚀 Mentor and educator  
 - 🌐 Open-source contributor & lifelong learner  
 
 # 📊 GitHub Stats:
