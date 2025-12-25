@@ -6,8 +6,6 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 <h3 class="anim">👋 About Me</h3>
 <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=huseynalizde33&theme=algolia&no-bg=true&margin-w=15"/>
-
 <img src="https://i.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300"/>
 
 <img src="https://i.imgur.com/0L3B1cR.gif" width="300">
