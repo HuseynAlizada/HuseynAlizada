@@ -46,7 +46,9 @@ I'm a Front-end & AI Developer specializing in Typescript, Node.js, Express, Nes
 - 🤖 Interested in AI integration for web and mobile apps  
 - 🎨 Enjoy creating clean, user-friendly UI/UX and faster back-end systems
 - 🚀 Mentor and educator  
-- 🌐 Open-source contributor & lifelong learner  
+- 🌐 Contributor of NPM packages for reusable utilities and services
+      [everydaay-helper]([https://your-website.com](https://www.npmjs.com/package/everyday-helper))  
+      [servios](https://www.npmjs.com/package/servios)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
