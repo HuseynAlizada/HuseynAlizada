@@ -53,6 +53,7 @@
 - Enjoy creating clean, user-friendly UI/UX and faster back-end systems
 - Mentor and Instructor  
 - Contributor of NPM packages for reusable utilities and services <br>
+      [formcraft-schemas](https://www.npmjs.com/package/formcraft-schemas)<br>
       [everydaay-helper](https://www.npmjs.com/package/everyday-helper) <br>
       [servios](https://www.npmjs.com/package/servios)
 
