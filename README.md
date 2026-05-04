@@ -53,9 +53,9 @@
 - Enjoy creating clean, user-friendly UI/UX and faster back-end systems
 - Mentor and Instructor  
 - Contributor of NPM packages for reusable utilities and services <br>
-      [proofix](https://www.npmjs.com/package/proofix)<br>
       [everydaay-helper](https://www.npmjs.com/package/everyday-helper) <br>
-      [servios](https://www.npmjs.com/package/servios)
+      [servios](https://www.npmjs.com/package/servios)<br>
+      [proofix](https://www.npmjs.com/package/proofix)<br>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
